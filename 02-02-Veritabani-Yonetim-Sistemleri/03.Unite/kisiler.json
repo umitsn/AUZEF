@@ -1,0 +1,23 @@
+{
+    "kisi1": {
+        "ad": "isim 1",
+        "soyAd": "Soyad 1",
+        "telefonlar": [
+            "tel1",
+            "tel2",
+            "tel2"
+        ],
+        "mail":"mail1@mail.com"
+    },
+    "kisi2": {
+        "ad": "isim 2",
+        "soyAd": "Soyad 2",
+        "unvan": "unvan 2",
+        "telefonlar": [
+            "tel1"
+        ],
+        "mail":"mail2@mail.com",
+        "profilPhoto": "pp2.png"
+    }
+
+}
