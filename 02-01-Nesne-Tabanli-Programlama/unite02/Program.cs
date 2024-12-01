@@ -36,7 +36,7 @@ int x = 53.6;
 (5*x-2055)/950
 */
 
-// dilekçeler ya da evraklardaki boş bırakılan doldurduğumuz kişisel bilgi alanları
+// dilekçeler ya da evraklardaki boş bırakılan doldurduğumuz kişisel bilgi alanları gibi düşünülebilir
 /*
 string ad = "ümit";
 string tcno = "1122";
