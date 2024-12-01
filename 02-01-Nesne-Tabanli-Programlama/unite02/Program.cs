@@ -55,6 +55,7 @@ int yas = 39;
 int _kilo = 60;
 Console.WriteLine(isim);
 
+// değişken isimi birden fazla kelimeden oluşuyorsa tüm kelimeler bitişik ve ilk kelime hariç diğer kelimelerin ilk harfi büyük yazılabilir
 /*
 kisiAdi
 kisiSoyadi
