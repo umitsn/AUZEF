@@ -5,8 +5,8 @@
   - [1.2 Macbook M1 Bilgisayara Kurulum](#12-macbook-m1-bilgisayara-kurulum)
 - [02. Ünite](#02-ünite)
 - [03. Ünite](#03-ünite)
-  - [3.1 Aritmetik İşlemler](#31-aritmetik-işlemler)
-- [Diğer Hesaplarım ve İletişim](#diğer-hesaplarım-ve-iletişim)
+  - [3.1 Aritmetik İşlemler](#31-aritmetik-i̇şlemler)
+- [Diğer Hesaplarım ve İletişim](#diğer-hesaplarım-ve-i̇letişim)
 
 ---
 
