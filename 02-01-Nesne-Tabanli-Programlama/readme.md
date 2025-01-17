@@ -30,3 +30,7 @@ AUZEF Neyneye Yönelik Programlama Dersinin 3. ünitesinde C# dilinde aritmetik 
 - **📍[X - seunmit](https://www.twitter.com/seunmit)**
 - **📍[Instagram - the.coding.time](https://www.instagram.com/the.coding.time)** 
 - **📍[TikTok - umitsn](https://www.tiktok.com/@umitsn)** 
+
+# Deneme
+deneme
+deneme
