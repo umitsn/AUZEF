@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 00 AUZEF C# Nesneye Yönelik Programlama Oynatma Listesi
 [**AUZEF C# Nesneye Yönelik Programlama PlayList**](https://www.youtube.com/playlist?list=PLWmM3tw4zswYxZvC5ZBrDOQtgTJWp5hdD)
 
