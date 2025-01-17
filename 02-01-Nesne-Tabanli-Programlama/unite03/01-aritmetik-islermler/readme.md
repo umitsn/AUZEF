@@ -1,6 +1,6 @@
-- **AUZEF C# Nesneye Yönelik Programlama**
-[**C# Aritmetik işlemler - YouTube Video**](https://youtu.be/g8WFIGUmoqU)
-[**PlayList**](https://www.youtube.com/playlist?list=PLWmM3tw4zswYxZvC5ZBrDOQtgTJWp5hdD)
+**AUZEF C# Nesneye Yönelik Programlama**
+- [**C# Aritmetik işlemler - YouTube Video**](https://youtu.be/g8WFIGUmoqU)
+- [**PlayList**](https://www.youtube.com/playlist?list=PLWmM3tw4zswYxZvC5ZBrDOQtgTJWp5hdD)
 
 
 **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
