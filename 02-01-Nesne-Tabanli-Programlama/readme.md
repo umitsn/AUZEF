@@ -1,5 +1,6 @@
 # İçindekiler
 - [00 AUZEF C# Nesneye Yönelik Programlama Oynatma Listesi](#00-auzef-c-nesneye-yonelik-programlama-oynatma-listesi)
+- [📨 İletişim](#iletisim)
 - [Deneme](#deneme)
 
 ## 00 AUZEF C# Nesneye Yönelik Programlama Oynatma Listesi
@@ -24,7 +25,7 @@ AUZEF Neyneye Yönelik Programlama Dersinin 2. ünitesinde C# dilinin özellikle
 **[AUZEF C# Nesneye Yönelik Programlama 03. Ünite Aritmetik İşlemler](https://youtu.be/g8WFIGUmoqU)**
 AUZEF Neyneye Yönelik Programlama Dersinin 3. ünitesinde C# dilinde aritmetik işlemler konusunu anlattım. Bu videoda toplama, çıkarma, bölme, iki sayının bölümünden kalanı elde etme gibi basit matematik işlemleri ayrıca ön ek ve son ek olarak kullanılan ++ ve -- operatörlerinin anlatımını ve uygulamalı örneklerini bulabilirsin.
 
-# 📧 Diğer Sosyal Medya Hesaplarım ve İletişim
+# İletişim
 - **📍[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
 - **📍[Site - GitHub](https://umitsn.github.io)** 
 - **📍[Instagram - sn.umit](https://www.instagram.com/sn.umit)** 
