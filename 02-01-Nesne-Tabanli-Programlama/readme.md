@@ -6,6 +6,7 @@
 - [02. Ünite](#02-ünite)
 - [03. Ünite](#03-ünite)
   - [3.1 Aritmetik İşlemler](#31-aritmetik-i̇şlemler)
+  - [3.2 Matıksal Operatörler](32-mantıksal-operatörler)
 - [Diğer Hesaplarım ve İletişim](#diğer-hesaplarım-ve-i̇letişim)
 
 ---
@@ -30,6 +31,9 @@ AUZEF Neyneye Yönelik Programlama Dersinin 2. ünitesinde C# dilinin özellikle
 ## 3.1 Aritmetik İşlemler
 **[AUZEF C# Nesneye Yönelik Programlama 03. Ünite Aritmetik İşlemler (YouTube Video)](https://youtu.be/g8WFIGUmoqU)**
 AUZEF Neyneye Yönelik Programlama Dersinin 3. ünitesinde C# dilinde aritmetik işlemler konusunu anlattım. Bu videoda toplama, çıkarma, bölme, iki sayının bölümünden kalanı elde etme gibi basit matematik işlemleri ayrıca ön ek ve son ek olarak kullanılan ++ ve -- operatörlerinin anlatımını ve uygulamalı örneklerini bulabilirsin.
+## 3.2 Matıksal Operatörler
+**[AUZEF C# Nesneye Yönelik Programlama 03. Ünite Matıksal Operatörler (YouTube Video)](https://www.youtube.com/watch?v=Fty7p8pA0dA)**
+AUZEF Neyneye Yönelik Programlama Dersinin 3. ünitesinde C# dilinde mantıksal operatörler konusunu anlattım. Bu videoda CSharp (C#) dilinde kullanılan mantıksal operatörlerden gösterimi & olan AND yani VE, gösterimi | olan OR yani VEYA, eşit mi karşılaştırmasını yaptığımız == operatörü ile && ve || operatörlerini tamamı uygulamalı olarak anlattım
 
 # Diğer Hesaplarım ve İletişim
 - **📍[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
