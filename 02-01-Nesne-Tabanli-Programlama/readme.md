@@ -6,7 +6,7 @@
 - [02. Ünite](#02-ünite)
 - [03. Ünite](#03-ünite)
   - [3.1 Aritmetik İşlemler](#31-aritmetik-i̇şlemler)
-  - [3.2 Matıksal Operatörler](32-mantıksal-operatörler)
+  - [3.2 Matıksal Operatörler](#32-mantıksal-operatörler)
 - [Diğer Hesaplarım ve İletişim](#diğer-hesaplarım-ve-i̇letişim)
 
 ---
